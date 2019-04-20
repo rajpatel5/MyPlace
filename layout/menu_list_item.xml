@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingStart="12dp"
+    android:paddingEnd="12dp"
+    android:layout_marginBottom="6dp"
+    android:layout_marginStart="6dp"
+    android:layout_marginEnd="4dp"
+    android:background="@drawable/layout_layers">
+
+    <ImageView
+        android:id="@+id/model_image"
+        android:layout_width="167dp"
+        android:layout_height="167dp"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_margin="4dp"
+        />
+
+    <TextView
+        android:id="@+id/model_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:textColor="@android:color/black"
+        android:textAllCaps="true"
+        android:textFontWeight="1"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:layout_marginBottom="8dp"
+        tools:text="Model"/>
+
+</LinearLayout>
