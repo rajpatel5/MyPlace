@@ -8,3 +8,5 @@ The app was coded in Java using Android Studio. It uses Google's ARCore library 
 <img src="https://user-images.githubusercontent.com/43008021/59006113-5afce480-87ee-11e9-8d10-b76bb21cdd4b.jpg" width="150" hspace="20"/>
 <img src="https://user-images.githubusercontent.com/43008021/59006114-5e906b80-87ee-11e9-89cb-915d4c640876.jpg" width="150" hspace="20"/>
 <img src="https://user-images.githubusercontent.com/43008021/59006146-82ec4800-87ee-11e9-94bf-e24e66c6cbc4.jpg" width="150" hspace="20"/>
+<img src="https://user-images.githubusercontent.com/43008021/59006220-b7600400-87ee-11e9-8da8-8bd8c1189d4d.jpg" width="150" hspace="20"/>
+<img src="https://user-images.githubusercontent.com/43008021/59006440-f773b680-87ef-11e9-8db2-c0174ffa98d1.jpg" width="150" hspace="20"/>
